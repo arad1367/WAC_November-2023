@@ -9,7 +9,7 @@ Course Content and Agenda:
 
 ### Section I- Introduction to Python Programing
 * Session 1-Data type, Operators, Variables, String, formatted string and List
-* Session 2- Dictionary, Sets, Tuple, Conditional logic and lLoops - Project 1
+* Session 2- Dictionary, Sets, Tuple, Conditional logic and Loops - Project 1
 * Session 3- Function and scope
 * Session 4- Object oriented programming (OOP) & Error handling & Modules - Project 2
 ### Section II- Introduction to Machine Learning
